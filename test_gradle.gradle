@@ -1,2 +1,2 @@
-compile group: 'commons-io', name: 'commons-io', version: '2.3' 
-compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.2.3.RELEASE' 
+compile group: 'commons-io', name: 'commons-io', version: '2.4' 
+compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.2.4.RELEASE' 
